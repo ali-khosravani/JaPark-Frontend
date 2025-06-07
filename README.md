@@ -1,1 +1,0 @@
-# JaPark-Frontend
